@@ -11,7 +11,7 @@ h1:hover {
 }
 
 h2 {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Roboto Mono', monospace;
   font-weight: lighter;
   letter-spacing: 2px;
@@ -20,11 +20,11 @@ h2 {
 
 h2:hover {
   color: #4A4A4A;
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 
 h4 {
-    color: #9B9B9B;
+    color: #ffffff;
     font-family: 'Roboto Mono', monospace;
     font-size: 16px;
     font-weight: bold;
@@ -79,7 +79,7 @@ h4:hover {
 i {
     font-family: 'Roboto Mono', monospace;
     font-size: 14px;
-    color: #000000;
+    color: #ffffff;
 }
 
 p {
@@ -96,12 +96,12 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: #bbb;
+  color: #d0d0d0;
 }
 
 u:hover {
-    color: #4A4A4A;
-    text-decoration: underline;
+    color: #d0d0d0;
+    /* text-decoration: underline; */
 }
 
 .rotate90 {
